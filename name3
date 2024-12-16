@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Третий документ</title>
+  </head>
+  <body>
+    <h1 align="center">Поисковые машины</h1>
+    <ul>
+        <li><a href="https://www.google.com">Google</a></li>
+        <li><a href="https://www.yandex.ru">Yandex</a></li>
+        <li><a href="https://www.yahoo.com">Yahoo</a></li>
+        <li><a href="https://www.rambler.ru/">Rambler</a></li>
+    </ul>
+    <br>
+    <a href="Четвертый документ.html">Четвертый документ</a>
+  </body>
+</html>
